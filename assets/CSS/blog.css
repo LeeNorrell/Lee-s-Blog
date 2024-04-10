@@ -1,0 +1,63 @@
+.h1 {
+    position: absolute;
+    left: 12px;
+    top: 6px;
+}
+
+.head {
+    border: 7px double white;
+    width: 97vw;
+}
+
+.dark-light {
+ position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+.dark {
+    background-color: #0e1f57;
+    height: 100vh;
+    color: #feffff
+}
+
+.light {
+    background-color: #00bef7;
+    color: black;
+    height: 100vh;
+}
+
+.alighnment{
+    display: flex;
+}
+
+.sub{
+    color: white;
+}
+
+div {
+    padding: 20px;
+    border: 8px solid gray;
+    background: white;
+    align-items: center;
+  }
+  
+  .content-box {
+    box-sizing: content-box;
+      width:90vw;
+      height:5vw;
+      margin: 10px;
+      display: flex;
+      justify-content: center;
+      color: black;
+  }
+
+  .info {
+    margin-left: 8px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .footer1 {
+    display: flex;
+    
+  }

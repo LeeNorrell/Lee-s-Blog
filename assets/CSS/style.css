@@ -1,0 +1,70 @@
+header {
+    padding-bottom: 20px;
+    margin: 20px;
+    width: 96vw;
+    border-bottom: 7px double white;
+}
+
+.left-box{
+    border: 2px black;
+}
+
+.left-box img{
+    display: flex;
+    margin: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.box {
+    border: 2px black;
+    display: block;
+    width: 50vw;
+    text-align: center;
+}
+
+form{
+    margin: 105px auto;
+}
+
+main{
+    width: 50vw;
+}
+
+main div img {
+    display: flex;
+
+}
+
+.text-box{
+    margin: 10px;
+    text-align: left;
+    padding-left: 80px
+}
+
+.dark-light{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+
+.dark {
+    background-color: #0e1f57;
+    height: 100vh;
+    color: #feffff
+}
+
+.light {
+    background-color: #00bef7;
+    color: black;
+    height: 100vh;
+}
+
+.alighnment{
+    display: flex;
+}
+
+.sub{
+    font-size: 24px;
+    color: white;
+}
